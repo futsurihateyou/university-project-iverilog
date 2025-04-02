@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/SLAVE/src/s_top.v",
+  "InstLine" : 5,
+  "InstName" : "s_top",
+  "ModuleFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/SLAVE/src/s_top.v",
+  "ModuleLine" : 5,
+  "ModuleName" : "s_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/SLAVE/src/s_top.v",
+    "InstLine" : 194,
+    "InstName" : "u_m_screen",
+    "ModuleFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/SLAVE/src/s_screen.v",
+    "ModuleLine" : 5,
+    "ModuleName" : "s_screen"
+   },
+   {
+    "InstFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/SLAVE/src/s_top.v",
+    "InstLine" : 206,
+    "InstName" : "u_spi_control",
+    "ModuleFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/SLAVE/src/s_spi_control.v",
+    "ModuleLine" : 5,
+    "ModuleName" : "s_spi_control"
+   }
+  ]
+ }
+]

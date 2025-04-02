@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/example-spi/spi_slave_tang/src/slave_control.v",
+  "InstLine" : 1,
+  "InstName" : "slave_control",
+  "ModuleFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/example-spi/spi_slave_tang/src/slave_control.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "slave_control",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/example-spi/spi_slave_tang/src/slave_control.v",
+    "InstLine" : 14,
+    "InstName" : "s",
+    "ModuleFile" : "C:/Users/lekro/Documents/GitHub/circuit-spi-display/example-spi/spi_slave_tang/src/spi_slave.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "spi_slave"
+   }
+  ]
+ }
+]
